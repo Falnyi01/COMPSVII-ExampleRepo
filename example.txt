@@ -6,5 +6,4 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
-- Peanuts
-- Okiii
+- GitHub
